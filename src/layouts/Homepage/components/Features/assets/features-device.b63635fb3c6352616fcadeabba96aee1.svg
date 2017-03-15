@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="387px" height="315px" viewBox="0 0 387 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>features-device</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 -1.74630635e-21 80 6.05044853e-20 80 148 0 148"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,9.99832468 C0,4.47640243 4.47256878,1.73395549e-21 9.99046484,6.02762297e-21 L70.0095352,5.2730556e-20 C75.5271165,5.70239786e-20 80,4.46966749 80,9.99832468 L80,138.001675 C80,143.523598 75.5274312,148 70.0095352,148 L9.99046484,148 C4.47288346,148 0,143.530333 0,138.001675 L0,9.99832468 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,3.9969357 C0,1.78948907 1.78307965,-3.58829847e-22 3.99458325,1.36201827e-21 L76.0054168,5.73961607e-20 C78.2115642,5.9112841e-20 80,1.79145013 80,3.9969357 L80,144.003064 C80,146.210511 78.2169203,148 76.0054168,148 L3.99458325,148 C1.78843584,148 0,146.20855 0,144.003064 L0,3.9969357 Z" id="path-5"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="0 -1.74630635e-21 80 6.05044853e-20 80 148 0 148"></polygon>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="features-device">
+            <g id="mobile-phone-detailed" transform="translate(293.000000, 104.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <ellipse id="Oval" fill="#FFFFFF" opacity="0.200000018" cx="40.1192893" cy="140.119289" rx="3.11928934" ry="3.11928934"></ellipse>
+                <rect id="Combined-Shape" fill="#FFFFFF" opacity="0.200000018" x="28.5482234" y="5.25888325" width="23.2893401" height="3.00507614" rx="1.50253807"></rect>
+                <rect id="Combined-Shape" fill="#5C3091" x="2" y="13" width="76" height="120"></rect>
+                <path d="M1,13 L3.25380711,13 L3.25380711,133 L1,133 L1,13 Z M3.25380711,13 L79,13 L79,15.2538071 L3.25380711,15.2538071 L3.25380711,13 Z" id="Combined-Shape" fill="#000000" opacity="0.300000012"></path>
+                <g id="orbit-logo/normal" transform="translate(29.299492, 59.350254)">
+                    <g id="Oval-310">
+                        <path d="M14.3414634,10.2439024 C12.078443,10.2439024 10.2439024,12.078443 10.2439024,14.3414634 L12.804878,14.3414634 C12.804878,13.4928308 13.4928308,12.804878 14.3414634,12.804878 L14.3414634,10.2439024 L14.3414634,10.2439024 Z" fill="#F54946" fill-rule="nonzero"></path>
+                        <path d="M14.3414634,5.12195122 C9.24966743,5.12195122 5.12195122,9.24966743 5.12195122,14.3414634 L7.68292683,14.3414634 C7.68292683,10.6640552 10.6640552,7.68292683 14.3414634,7.68292683 L14.3414634,5.12195122 L14.3414634,5.12195122 Z" fill="#F54946" fill-rule="nonzero"></path>
+                        <path d="M14.3414634,0 C6.42089188,0 0,6.42089188 0,14.3414634 L2.56097561,14.3414634 C2.56097561,7.83527965 7.83527965,2.56097561 14.3414634,2.56097561 L14.3414634,0 L14.3414634,0 Z" fill="#F54946" fill-rule="nonzero"></path>
+                        <path d="M7.68292683,14.3414634 C7.68292683,18.0188716 10.6640552,21 14.3414634,21 C18.0188716,21 21,18.0188716 21,14.3414634 C21,10.6640552 18.0188716,7.68292683 14.3414634,7.68292683 L14.3414634,10.2439024 C16.6044839,10.2439024 18.4390244,12.078443 18.4390244,14.3414634 C18.4390244,16.6044839 16.6044839,18.4390244 14.3414634,18.4390244 C12.078443,18.4390244 10.2439024,16.6044839 10.2439024,14.3414634 L7.68292683,14.3414634 L7.68292683,14.3414634 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <polygon id="Combined-Shape" fill-opacity="0.049999997" fill="#FFFFFF" points="1 13 79 13 1 133"></polygon>
+            </g>
+            <g id="mobile-phone-detailed" transform="translate(200.000000, 80.000000)">
+                <g id="Group-5">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <ellipse id="Oval" fill="#FFFFFF" opacity="0.200000018" cx="40.1928934" cy="136.35533" rx="4.88324873" ry="4.88324873"></ellipse>
+                    <circle id="Oval-3" fill="#333333" cx="27" cy="7" r="2"></circle>
+                    <rect id="Rectangle-3" fill="#333333" x="31" y="6" width="24" height="2" rx="1"></rect>
+                    <rect id="Combined-Shape" fill="#F54946" x="6.01015228" y="13.5228426" width="68.3654822" height="111.939086"></rect>
+                    <path d="M6.01015228,13.5228426 L8.26395939,13.5228426 L8.26395939,125.461929 L6.01015228,125.461929 L6.01015228,13.5228426 Z M8.26395939,13.5228426 L74.3756345,13.5228426 L74.3756345,15.7766497 L8.26395939,15.7766497 L8.26395939,13.5228426 Z" id="Combined-Shape" fill="#000000" opacity="0.400000006"></path>
+                    <g id="orbit-logo/purple+white" transform="translate(29.299492, 59.350254)">
+                        <g id="orbit-logo/normal">
+                            <path d="M14.3414634,10.2439024 C12.078443,10.2439024 10.2439024,12.078443 10.2439024,14.3414634 L12.804878,14.3414634 C12.804878,13.4928308 13.4928308,12.804878 14.3414634,12.804878 L14.3414634,10.2439024 L14.3414634,10.2439024 Z" id="Oval-310" fill="#370B6E" fill-rule="nonzero"></path>
+                            <path d="M14.3414634,5.12195122 C9.24966743,5.12195122 5.12195122,9.24966743 5.12195122,14.3414634 L7.68292683,14.3414634 C7.68292683,10.6640552 10.6640552,7.68292683 14.3414634,7.68292683 L14.3414634,5.12195122 L14.3414634,5.12195122 Z" id="Oval-310" fill="#370B6E" fill-rule="nonzero"></path>
+                            <path d="M14.3414634,0 C6.42089188,0 0,6.42089188 0,14.3414634 L2.56097561,14.3414634 C2.56097561,7.83527965 7.83527965,2.56097561 14.3414634,2.56097561 L14.3414634,0 L14.3414634,0 Z" id="Oval-310" fill="#370B6E" fill-rule="nonzero"></path>
+                            <path d="M7.68292683,14.3414634 C7.68292683,18.0188716 10.6640552,21 14.3414634,21 C18.0188716,21 21,18.0188716 21,14.3414634 C21,10.6640552 18.0188716,7.68292683 14.3414634,7.68292683 L14.3414634,10.2439024 C16.6044839,10.2439024 18.4390244,12.078443 18.4390244,14.3414634 C18.4390244,16.6044839 16.6044839,18.4390244 14.3414634,18.4390244 C12.078443,18.4390244 10.2439024,16.6044839 10.2439024,14.3414634 L7.68292683,14.3414634 L7.68292683,14.3414634 Z" id="Oval-310" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <polygon id="Combined-Shape" fill-opacity="0.049999997" fill="#FFFFFF" points="6.01015228 13.5228426 74.3756345 13.5228426 6.01015228 125.461929"></polygon>
+                </g>
+            </g>
+            <g id="Group-4" transform="translate(105.000000, 123.000000)">
+                <g id="mobile-phone-detailed">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#EBEBEB" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <ellipse id="Oval" fill="#D3D3D3" cx="40.1928934" cy="136.35533" rx="4.88324873" ry="4.88324873"></ellipse>
+                    <rect id="Combined-Shape" fill="#D3D3D3" x="28.5482234" y="5.25888325" width="23.2893401" height="3.00507614" rx="1.50253807"></rect>
+                    <rect id="Combined-Shape" fill="#5C3091" x="6.01015228" y="13.5228426" width="68.3654822" height="111.939086"></rect>
+                    <path d="M6.01015228,13.5228426 L8.26395939,13.5228426 L8.26395939,125.461929 L6.01015228,125.461929 L6.01015228,13.5228426 Z M8.26395939,13.5228426 L74.3756345,13.5228426 L74.3756345,15.7766497 L8.26395939,15.7766497 L8.26395939,13.5228426 Z" id="Combined-Shape" fill="#000000" opacity="0.300000012"></path>
+                    <g id="orbit-logo/normal" transform="translate(29.299492, 59.350254)">
+                        <g id="Oval-310">
+                            <path d="M14.3414634,10.2439024 C12.078443,10.2439024 10.2439024,12.078443 10.2439024,14.3414634 L12.804878,14.3414634 C12.804878,13.4928308 13.4928308,12.804878 14.3414634,12.804878 L14.3414634,10.2439024 L14.3414634,10.2439024 Z" fill="#F54946" fill-rule="nonzero"></path>
+                            <path d="M14.3414634,5.12195122 C9.24966743,5.12195122 5.12195122,9.24966743 5.12195122,14.3414634 L7.68292683,14.3414634 C7.68292683,10.6640552 10.6640552,7.68292683 14.3414634,7.68292683 L14.3414634,5.12195122 L14.3414634,5.12195122 Z" fill="#F54946" fill-rule="nonzero"></path>
+                            <path d="M14.3414634,0 C6.42089188,0 0,6.42089188 0,14.3414634 L2.56097561,14.3414634 C2.56097561,7.83527965 7.83527965,2.56097561 14.3414634,2.56097561 L14.3414634,0 L14.3414634,0 Z" fill="#F54946" fill-rule="nonzero"></path>
+                            <path d="M7.68292683,14.3414634 C7.68292683,18.0188716 10.6640552,21 14.3414634,21 C18.0188716,21 21,18.0188716 21,14.3414634 C21,10.6640552 18.0188716,7.68292683 14.3414634,7.68292683 L14.3414634,10.2439024 C16.6044839,10.2439024 18.4390244,12.078443 18.4390244,14.3414634 C18.4390244,16.6044839 16.6044839,18.4390244 14.3414634,18.4390244 C12.078443,18.4390244 10.2439024,16.6044839 10.2439024,14.3414634 L7.68292683,14.3414634 L7.68292683,14.3414634 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <polygon id="Combined-Shape" fill-opacity="0.049999997" fill="#FFFFFF" points="6.01015228 13.5228426 74.3756345 13.5228426 6.01015228 125.461929"></polygon>
+                </g>
+            </g>
+            <g id="mobile-phone-detailed" transform="translate(11.000000, 88.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <ellipse id="Oval" fill="#FFFFFF" opacity="0.200000018" cx="40.1928934" cy="136.35533" rx="3.11928934" ry="3.11928934"></ellipse>
+                <rect id="Combined-Shape" fill="#FFFFFF" opacity="0.200000018" x="28.5482234" y="5.25888325" width="23.2893401" height="3.00507614" rx="1.50253807"></rect>
+                <rect id="Combined-Shape" fill="#F54946" x="6.01015228" y="13.5228426" width="68.3654822" height="111.939086"></rect>
+                <path d="M6.01015228,13.5228426 L8.26395939,13.5228426 L8.26395939,125.461929 L6.01015228,125.461929 L6.01015228,13.5228426 Z M8.26395939,13.5228426 L74.3756345,13.5228426 L74.3756345,15.7766497 L8.26395939,15.7766497 L8.26395939,13.5228426 Z" id="Combined-Shape" fill="#000000" opacity="0.300000012"></path>
+                <g id="orbit-logo/purple+white" transform="translate(29.299492, 59.350254)">
+                    <g id="orbit-logo/normal">
+                        <path d="M14.3414634,10.2439024 C12.078443,10.2439024 10.2439024,12.078443 10.2439024,14.3414634 L12.804878,14.3414634 C12.804878,13.4928308 13.4928308,12.804878 14.3414634,12.804878 L14.3414634,10.2439024 L14.3414634,10.2439024 Z" id="Oval-310" fill="#370B6E" fill-rule="nonzero"></path>
+                        <path d="M14.3414634,5.12195122 C9.24966743,5.12195122 5.12195122,9.24966743 5.12195122,14.3414634 L7.68292683,14.3414634 C7.68292683,10.6640552 10.6640552,7.68292683 14.3414634,7.68292683 L14.3414634,5.12195122 L14.3414634,5.12195122 Z" id="Oval-310" fill="#370B6E" fill-rule="nonzero"></path>
+                        <path d="M14.3414634,0 C6.42089188,0 0,6.42089188 0,14.3414634 L2.56097561,14.3414634 C2.56097561,7.83527965 7.83527965,2.56097561 14.3414634,2.56097561 L14.3414634,0 L14.3414634,0 Z" id="Oval-310" fill="#370B6E" fill-rule="nonzero"></path>
+                        <path d="M7.68292683,14.3414634 C7.68292683,18.0188716 10.6640552,21 14.3414634,21 C18.0188716,21 21,18.0188716 21,14.3414634 C21,10.6640552 18.0188716,7.68292683 14.3414634,7.68292683 L14.3414634,10.2439024 C16.6044839,10.2439024 18.4390244,12.078443 18.4390244,14.3414634 C18.4390244,16.6044839 16.6044839,18.4390244 14.3414634,18.4390244 C12.078443,18.4390244 10.2439024,16.6044839 10.2439024,14.3414634 L7.68292683,14.3414634 L7.68292683,14.3414634 Z" id="Oval-310" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+                <polygon id="Combined-Shape" fill-opacity="0.049999997" fill="#FFFFFF" points="6.01015228 13.5228426 74.3756345 13.5228426 6.01015228 125.461929"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
